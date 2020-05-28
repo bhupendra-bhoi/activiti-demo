@@ -14,6 +14,7 @@ public class ActivitiDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ActivitiDemoApplication.class, args);
+		
 	}
 	
 	@RestController
