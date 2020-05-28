@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 instructions
 =======
 
 adding some more details in instructions
 
 there are a lot of changes
->>>>>>> bdd11d95bd5d298d7c3f65bc13b65c9cb4e7cb2b
+
+On Sample Branch
